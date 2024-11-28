@@ -14,6 +14,8 @@ Please contact the CCEP team at [ccep@cisco.com](mailto:ccep@cisco.com?subject=p
 
 ### Solution Goals
 
+See the [Vidcast Overview](https://app.vidcast.io/share/cab5b686-9745-4394-98d4-b8b58c45f1a3) for a verbal explanation!
+
 A Webex Contact Centre flow that will take the number the user is calling in from, Resolve the rest of that users contact details against the JDS customer database, and make details such as alternative phone numbers, email addresses and customer reference numbers available for use within the flow via variables.
 
 The flow provided is a subflow, which makes calling it from another flow simple and quick without too much configuration.
