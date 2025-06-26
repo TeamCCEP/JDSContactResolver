@@ -54,8 +54,7 @@ The flow provided is a subflow, which makes calling it from another flow simple 
 | customerId       |  string  |                                                                        |
 | phone0           |  string  |                                                                        |
 | phone1           |  string  |                                                                        |
-| personId         |  string  |                                                                        |
-| firstName        |  string  |                                                                        |
+| personId         |  string  |                                                                        |                                                                        |
 | JDS_Workspace_ID |  string  | JDS Project ID from Control Hub                                        |
 | WebHookSite      |  string  | Your webhook.site identifier, e.g 775c4cbc-0249-4e3a-a903-b60e656b1d39 |
 
